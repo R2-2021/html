@@ -1,0 +1,39 @@
+body { background-image: url(./image/bg037.gif);  color: black; margin-left: 2em; margin-right: 2em; font-size: 1.2em; }
+h1 { width:1200px; height:50px; background: maroon; color: lightgreen; font-size: 2.0em; border-radius: 8px;
+  padding:10px;}
+/* padding-left: 20px; padding-right: 20px; } */
+h2 { font-size: 1.2em; }
+p { font-size: 1.5em; line-height: 1.0em; }
+em { font-style: normal; font-weight: bold; color: red; }
+a:link { color: darkblue; }
+a:visited { color: purple; }
+a:hover { color: darkorange; }
+
+/* 130*8=1040 230*5=1150 560*2=1120 370*3=1110 275*4=1100 */
+p.welcome  { text-align: center;   }
+p.welcome2 { text-align: center;   }
+p.welcome3 { text-align: center;   }
+p.welcome4 { text-align: center;   }
+p.welcome5 { text-align: center;   }
+p.welcome6 { text-align: center;  font-size: 1.2em; }
+p.welcome6L { font-size: 1.2em; }
+p.welcome7 { text-align: center;   }
+p.welcome8 { text-align: center;  font-size: 1.2em; }
+
+p.welcome   img { box-shadow: 4px 4px 4px;  width: 130; height: auto;  padding-top: 0px; }
+p.welcome2  img { box-shadow: 4px 4px 4px;  width: 230; height: auto;  padding-top: 0px; }
+p.welcome02 img { box-shadow: 4px 4px 4px;  width: 560; height: auto;  padding-top: 0px; }
+p.welcome03 img { box-shadow: 4px 4px 4px;  width: 370; height: auto;  padding-top: 0px; }
+p.welcome04 img { box-shadow: 4px 4px 4px;  width: 275; height: auto;  padding-top: 0px; }
+p.welcome3  img { box-shadow: 4px 4px 4px;  width: 370; height: auto;  padding-top: 0px; }
+p.welcome4  img { box-shadow: 4px 4px 4px;  width: 275; height: auto;  padding-top: 0px; }
+p.welcome5  img { box-shadow: 4px 4px 4px;  width: 230; height: auto;  padding-top: 0px; }
+p.welcome6  img { box-shadow: 4px 4px 4px;  width: 190; height: auto;  padding-top: 0px; }
+p.welcome7  img { box-shadow: 4px 4px 4px;  width: 160; height: auto;  padding-top: 0px; }
+p.welcome8  img { box-shadow: 4px 4px 4px;  width: 130; height: auto;  padding-top: 0px; }
+
+table, td, th { border: 2px solid lightsalmon; }
+td, th { padding: 4px; }
+th { background: lightpink; }
+td { background: honeydew; vertical-align: top;}
+
