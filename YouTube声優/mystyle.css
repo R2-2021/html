@@ -1,0 +1,21 @@
+body { background-image: url(./image/bg024.gif);  color: black; margin-left: 2em; margin-right: 2em; }
+h1 { width:1200px; height:50px; background: maroon; color: lightgreen; font-size: 2.0em; border-radius: 8px;
+  padding:10px;}
+/* padding-left: 20px; padding-right: 20px; } */
+h2 { font-size: 1.2em; }
+p { font-size: 0.8em; line-height: 1.0em; }
+em { font-style: normal; font-weight: bold; color: red; }
+a:link { color: darkblue; }
+a:visited { color: purple; }
+a:hover { color: darkorange; }
+
+p.welcome      { text-align: center;  }
+p.welcome2     { text-align: center; font-size=120%; }
+p.welcome  img { box-shadow: 4px 4px 4px;  width: 130; height: auto;  padding-top: 10px;}
+p.welcome2 img { box-shadow: 4px 4px 4px;  width: 180; height: auto;  padding-top: 10px;}
+
+table, td, th { border: 2px solid lightsalmon; }
+td, th { padding: 4px; }
+th { background: lightpink; }
+td { background: honeydew; vertical-align: top; }
+
